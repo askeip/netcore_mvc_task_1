@@ -1,0 +1,11 @@
+C:\Users\Евгений\source\repos\Extrem_MVC_1\Extrem_MVC_1\bin\Debug\netcoreapp2.0\Extrem_MVC_1.deps.json
+C:\Users\Евгений\source\repos\Extrem_MVC_1\Extrem_MVC_1\bin\Debug\netcoreapp2.0\Extrem_MVC_1.runtimeconfig.json
+C:\Users\Евгений\source\repos\Extrem_MVC_1\Extrem_MVC_1\bin\Debug\netcoreapp2.0\Extrem_MVC_1.runtimeconfig.dev.json
+C:\Users\Евгений\source\repos\Extrem_MVC_1\Extrem_MVC_1\bin\Debug\netcoreapp2.0\Extrem_MVC_1.dll
+C:\Users\Евгений\source\repos\Extrem_MVC_1\Extrem_MVC_1\bin\Debug\netcoreapp2.0\Extrem_MVC_1.pdb
+C:\Users\Евгений\source\repos\Extrem_MVC_1\Extrem_MVC_1\obj\Debug\netcoreapp2.0\Extrem_MVC_1.csprojResolveAssemblyReference.cache
+C:\Users\Евгений\source\repos\Extrem_MVC_1\Extrem_MVC_1\obj\Debug\netcoreapp2.0\Extrem_MVC_1.csproj.CoreCompileInputs.cache
+C:\Users\Евгений\source\repos\Extrem_MVC_1\Extrem_MVC_1\obj\Debug\netcoreapp2.0\Extrem_MVC_1.AssemblyInfoInputs.cache
+C:\Users\Евгений\source\repos\Extrem_MVC_1\Extrem_MVC_1\obj\Debug\netcoreapp2.0\Extrem_MVC_1.AssemblyInfo.cs
+C:\Users\Евгений\source\repos\Extrem_MVC_1\Extrem_MVC_1\obj\Debug\netcoreapp2.0\Extrem_MVC_1.dll
+C:\Users\Евгений\source\repos\Extrem_MVC_1\Extrem_MVC_1\obj\Debug\netcoreapp2.0\Extrem_MVC_1.pdb
